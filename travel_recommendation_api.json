@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney",
+          "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=500&h=300&fit=crop",
+          "description": "A vibrant city known for its iconic Opera House, stunning beaches, and beautiful harbor."
+        },
+        {
+          "name": "Melbourne",
+          "imageUrl": "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=500&h=300&fit=crop",
+          "description": "Famous for its vibrant arts scene, coffee culture, and beautiful parks."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592208-02820a4b0051?w=500&h=300&fit=crop",
+      "description": "An immense mausoleum of white marble, built in Agra by Mughal emperor Shah Jahan."
+    },
+    {
+      "id": 2,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1600803513360-14e3860bb4a2?w=500&h=300&fit=crop",
+      "description": "A temple complex in Cambodia and the largest religious monument in the world."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1535262412227-85541e910204?w=500&h=300&fit=crop",
+      "description": "Known for its stunning turquoise waters, luxury bungalows, and beautiful coral reefs."
+    },
+    {
+      "id": 2,
+      "name": "Maldives",
+      "imageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=500&h=300&fit=crop",
+      "description": "A tropical paradise featuring pristine white-sand beaches and crystal-clear lagoons."
+    }
+  ]
+}
